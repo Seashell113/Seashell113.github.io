@@ -6,8 +6,8 @@ github: https://github.com/Seashell113
 baseurl: "/"
 description: Do more , and speak less.
 meta_description: 
-motto: write to remmber.
-banner: first step
+motto: Write to remmber.
+banner: Seeing is believing.
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
