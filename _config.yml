@@ -1,8 +1,8 @@
 # Site settings
-name: Space
+name: 一个简单的博客
 email: 971866257@qq.com
 author: Seashell113
-github: https://github.com/luoyan35714/
+github: https://github.com/Seashell113
 baseurl: "/"
 description: Do more , and speak less.
 meta_description: 
