@@ -6519,14 +6519,18 @@ hr {
   border-color: #111f36;
 }
 .docs-nav .container .navbar-brand {
-  margin: 12px 0 0;
-  width: 100px;
-  padding: 0;
+    margin: 16px 0 0;
+    width: 125px;
+    padding: 0;
+	font-size: 14px;
 }
 .docs-nav .container .navbar-brand img {
-  display: block;
+  display: inline-block;
   max-width: 100%;
   height: auto;
+  width: 30px;
+  height: 30px;
+  margin-right: 5px;
 }
 .docs-nav .navbar-nav > li > a,
 .docs-nav .navbar-nav > li > span {
